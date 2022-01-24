@@ -1,4 +1,4 @@
-# Go Schulung Linuxhotel 25.01.2021 - 25.01.2022
+# Go Schulung Linuxhotel 25.01.2021 - 27.01.2022
 
 * [Agenda](agenda.md)
 * [Links](links.md)
